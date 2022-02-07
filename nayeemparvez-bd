@@ -2,10 +2,17 @@
 
 ______________________________________
 
+   #EXTINF:-1,IPTV by Nayeem Parvez
+
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/ce453100-11a3-11ec-8713-71feefab3902/2115109/376145210.jpg" group-title="IPTV by Nayeem Parvez", Nayeem Parvez
+http://imgur.com/3Y8XPK6.mp4?key=thenayeemparvez
+
+______________________________________
+
         #EXTINF:-1,Bangladeshi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8?key=thenayeemparvez
+http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
 https://somoy.appv.jagobd.com:444/somoy/atnbd-8-org.stream/playlist.m3u8?key=thenayeemparvez
@@ -62,7 +69,7 @@ http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8?token=thenayeemparvez
 https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8?key=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SATV
-http://10.16.100.245/hindi/s@tv_1st0p.m3u8?key=thenayeemparvez
+https://i.imgur.com/rCIBev6.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIKoy-Sq5C5ia5_vB6NztQk_G_Dh4DUqoOIQ&usqp=CAU" group-title="Bangladeshi",Sangsad TV
 http://103.106.2.149:13456/sangsad.m3u8?token=thenayeemparvez
@@ -71,7 +78,7 @@ http://103.106.2.149:13456/sangsad.m3u8?token=thenayeemparvez
 https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8?key=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
-http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8?key=thenayeemparvez
+http://103.159.4.38:5868/BD-BANGLA-7/index.m3u8?key=thenayeemparvez
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV
 https://somoy.appv.jagobd.com:444/somoy/independent-8-org.stream/playlist.m3u8?key=thenayeemparvez
@@ -93,6 +100,18 @@ http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8?token=thenayeempa
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlvFYYfCEcEzPLFF-VBx0IspvmgRPLJwgxw&usqp=CAU", Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi TV (1)
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png",Gazi TV (2)
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD (1)
+http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports HD (2)
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8?key=thenayeemparvez
 
 ______________________________________
 

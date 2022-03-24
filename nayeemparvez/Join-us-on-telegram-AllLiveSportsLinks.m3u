@@ -1,0 +1,128 @@
+#EXTM3U
+
+______________________________________
+
+   #EXTINF:-1,IPTV by Nayeem Parvez
+
+______________________________________
+
+        #EXTINF:-1,Bangladeshi
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangladeshi", ATN Bangla
+https://somoy.appv.jagobd.com:444/somoy/atnbd-8-org.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png", ATN News
+https://somoy.appv.jagobd.com:444/somoy/atnws-sg.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", ATN Islamic 
+https://somoy.appv.jagobd.com:444/somoy/atnislamictv.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangladeshi", Banglavision
+https://somoy.appv.jagobd.com:444/somoy/banglav000.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangladeshi", Bangla TV
+https://somoy.appv.jagobd.com:444/somoy/banglatvhd.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png", Boishakhi TV
+https://somoy.appv.jagobd.com:444/somoy/boishakhitv-org.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangladeshi", Channel I
+https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8?token=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
+https://somoy.appv.jagobd.com:444/somoy/channel9hd.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="Bangladeshi", Channel 24
+https://somoy.appv.jagobd.com:444/somoy/channel24-sg-e8e.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangladeshi", DBC News
+https://somoy.appv.jagobd.com:444/somoy/dbcnews.stream/lplaylist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangladeshi", Deepto TV HD
+https://somoy.appv.jagobd.com:444/somoy/deeptotv.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangladeshi", Ekushey TV
+http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8?token=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangladeshi", Jamuna TV
+https://somoy.appv.jagobd.com:444/somoy/jamuna-test-sample-ok.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangladeshi", Mohona TV HD
+https://somoy.appv.jagobd.com:444/somoy/mohonatv00000223232244556633.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangladeshi", My TV HD
+https://somoy.appv.jagobd.com:444/somoy/mytv-up-off.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png" group-title="Bangladeshi", News 24 HD
+https://somoy.appv.jagobd.com:444/somoy/news24local.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="Bangladeshi", NTV
+http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8?token=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yi5p51T.png" group-title="Bangladeshi", RTV
+https://somoy.appv.jagobd.com:444/somoy/rtv-sg.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fraEjzm.png" group-title="Bangladeshi", SATV
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIKoy-Sq5C5ia5_vB6NztQk_G_Dh4DUqoOIQ&usqp=CAU" group-title="Bangladeshi",Sangsad TV
+http://103.106.2.149:13456/sangsad.m3u8?token=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
+https://somoy.appv.jagobd.com:444/somoy/anandatv.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="Bangladeshi", Ekattor TV HD
+http://103.130.112.222:8085/hls/Ekattor-TV/index.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangladeshi", Independent TV
+https://somoy.appv.jagobd.com:444/somoy/independent-8-org.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ftu2Rt.jpg" group-title="Bangladeshi", Maasranga TV HD
+https://somoy.appv.jagobd.com:444/somoy/mass.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z2QvpTn.png" group-title="Bangladeshi", Shomoy
+https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8?key=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/o90Y1Me.png",BTV World
+http://103.106.2.149:13456/btv_world.m3u8?token=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQayK-vvhcWU60h6xH_RK6H7IFzyLryicmQYw&usqp=CAU", BTV
+http://103.106.2.149:13456/btv.m3u8?token=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://alqurans.com/img/peace_tv_bangla.png",Peace TV - Bangla
+http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8?token=thenayeemparvez
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlvFYYfCEcEzPLFF-VBx0IspvmgRPLJwgxw&usqp=CAU", Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/madnitvbangla/madnibangla_1080p/chunks.m3u8?key=thenayeemparvez
+
+______________________________________
+
+       #EXTINF:-1,Indian Bangla
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EpykY5A.png" group-title="Indian Bangla", Sony Aath
+https://nayeem-parvez.gq/jioox.php?c=Sony_aath&e=.m3u8
+
+EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/SmRHYWY/zee-b-removebg-preview.png",Zee Bangla
+https://nayeem-parvez.gq/jioox.php?c=Zee_Bangla&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Indian Bangla", Zee Bangla HD
+http://nayeem-indianbangla.myftp.biz/615.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla", Colors Bangla HD
+https://nayeem-parvez.gq/jioox.php?c=Colors_Bengali_HD&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Indian Bangla", Star Jalsha HD
+http://nayeem-parvez16.myftp.org:8089/30/index.m3u8?token=376dc1ea78dd62278b82dcddb176f2a50fdbaf46-dc4eeac7e3a86232c3621ef86aaddfc2-1647771136-1647760336&remote=45.118.247.54
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="Indian Bangla",Jalsha Movies HD
+http://nayeem-parvez16.myftp.org:8089/31/index.m3u8?token=376dc1ea78dd62278b82dcddb176f2a50fdbaf46-dc4eeac7e3a86232c3621ef86aaddfc2-1647771136-1647760336&remote=45.118.247.54
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ60N1o4i2GdcG4SM29IsrSF1LOsqc2fHselg&usqp=CAU" group-title="Indian Bangla", Zee Bangla Cinema
+https://nayeem-parvez.gq/jioox.php?c=Zee_Bangla_Cinema&e=.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRplRD9IY6CQhf-knR6D52hdCmNLBp7bRPg&usqp=CAU", Sun Bangla
+http://nayeemparvez-ittv.serveirc.com/hls/sunbangla.m3u8
+______________________________________
